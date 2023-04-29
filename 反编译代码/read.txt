@@ -1,0 +1,11 @@
+1.把apk后缀改成zip解压
+2.打开netreflector 
+把\assets\bin\Data\Managed\Assembly-CSharp.dll拖进去
+然后右击导出资源
+
+问题1：
+若文件夹下没有Assembly-CSharp.dll
+在解压的文件中找到（直接搜索）libil2cpp.so 和 global-metadata.dat
+运行Il2CppDumper.exe
+依次点击libil2cpp.so global-metadata.dat
+然后就有Assembly-CSharp.dll了
