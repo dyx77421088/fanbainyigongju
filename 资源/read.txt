@@ -1,3 +1,10 @@
+AssetStudio.net6.v0.16.47：
 1.把apk改成zip解压
 2.运行AssetStudioGUI.exe
 3.选择file->load folder 然后选择assets\bin\Data文件夹
+
+disunity：
+xxx.unity3d文件复制到disunity所在目录，执行命令行：
+disunity extract xxx.unity3d
+如果没有报错，则会出现xxx命名的文件夹
+相关文章：http://www.gimoo.net/t/1602/56bef09231dff.html

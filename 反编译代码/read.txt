@@ -1,5 +1,5 @@
 1.把apk后缀改成zip解压
-2.打开netreflector 
+2.打开Net Reflector 
 把\assets\bin\Data\Managed\Assembly-CSharp.dll拖进去
 然后右击导出资源
 
